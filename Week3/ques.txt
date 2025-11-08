@@ -1,0 +1,7 @@
+6# Write a Java program to swap two numbers using a temporary variable. 
+7# Write a Java program to calculate the area of a rectangle given its length 
+and breadth. 
+8# Write a Java program to convert temperature from Celsius to Fahrenheit. 
+9# Write a Java program that takes two integer inputs and computes their 
+remainder and quotient. 
+10# Write a Java program to find the circumference of a circle given its radius. 
